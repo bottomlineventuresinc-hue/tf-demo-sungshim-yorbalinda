@@ -1,0 +1,10 @@
+PHOTO SOURCES — hs-018-sungshim Sungshim Plumbing (Wave 4 2026-09-19 PT)
+Commercial-ok Unsplash/Pexels (and prior Wave verified library). Verified by opening each file. No owner stock face.
+
+hero-site.jpg — hands on residential plumbing pipes (verified wave4/plumb-pipes)
+services-trade.jpg — residential plumbing pipes (Williams verified Pexels 6419128)
+job041-* — pipe/fitting B/A typical (verified)
+job-elec-* slots — faucet fixture + under-sink / water heater supply (verified)
+job052-* — water heater supply / valve work typical (verified pipes)
+people-* — tools/toolbox/crew — NOT owner face
+coverage-house.jpg — residential exterior
