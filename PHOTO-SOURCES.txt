@@ -1,10 +1,20 @@
-PHOTO SOURCES — hs-018-sungshim Sungshim Plumbing (Wave 4 2026-09-19 PT)
-Commercial-ok Unsplash/Pexels (and prior Wave verified library). Verified by opening each file. No owner stock face.
+PHOTO SOURCES · hs-018-sungshim Sungshim Plumbing (CR 2026-09-25b PT rebuild)
+All CC0 / public domain (StockSnap, rawpixel CC0, WordPress Photos CC0, Flickr CC0/PDM via Openverse) or prior verified Wave library.
+Every file opened and checked for trade fit and job-label fit. No face is used or captioned as the owner or crew.
+Sample B/A photos are labeled on page as stock images typical of this kind of job.
 
-hero-site.jpg — hands on residential plumbing pipes (verified wave4/plumb-pipes)
-services-trade.jpg — residential plumbing pipes (Williams verified Pexels 6419128)
-job041-* — pipe/fitting B/A typical (verified)
-job-elec-* slots — faucet fixture + under-sink / water heater supply (verified)
-job052-* — water heater supply / valve work typical (verified pipes)
-people-* — tools/toolbox/crew — NOT owner face
-coverage-house.jpg — residential exterior
+hero-site.jpg <- wave11/plumb-iron-fittings.jpg : black iron pipe fittings (rawpixel CC0 5947855)
+services-trade.jpg <- wave11/wh-basement-tank.jpg : tank water heater in a utility room (Flickr PDM 17715613311)
+people-crew.jpg <- wave11/tools-sockets.jpg : socket set (StockSnap CC0 M07SV6AMBD)
+people-marek.jpg <- wave11/utility-sink.jpg : utility sink with faucet (Flickr CC0 95565646)
+people-tom.jpg <- wave11/shower-head-spray.jpg : shower head running (rawpixel CC0 6032192)
+coverage-house.jpg <- wave11/house-stucco-ie.jpg : stucco single-story home, Southwest style (StockSnap CC0 L9VZ6SOGBB)
+plumb-under-sink-hands.jpg <- wave11/plumb-under-sink-hands.jpg : hands fitting a supply line under a sink, no face (prior verified library wave2/under-sink.jpg)
+kitchen-sink-steel.jpg <- wave11/kitchen-sink-steel.jpg : stainless double kitchen sink and faucet (rawpixel CC0 5907815)
+tools-wrenches-dark.jpg <- wave11/tools-wrenches-dark.jpg : wrench set, dark background (StockSnap CC0 F91K0WLE2D)
+wh-basement-tank.jpg <- wave11/wh-basement-tank.jpg : tank water heater in a utility room (Flickr PDM 17715613311)
+plumb-wrenches-pipe.jpg <- wave11/plumb-wrenches-pipe.jpg : pipe wrenches on a pipe (rawpixel CC0 5904346)
+copper-valves-filter.jpg <- wave11/copper-valves-filter.jpg : copper supply lines with red ball valves and a filter housing (rawpixel CC0 6041215)
+
+Replaced from the prior build: all photos (prior library had mislabeled trade images and stock faces).
+Note: No license number on page. Owner referred to by name (no gendered pronouns).

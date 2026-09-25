@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Plumbing repair, water heater work, and sewer lateral support across Yorba Linda and North Orange County. You get a fixed itemised quote before we start, Gyuseon as your named lead on site, and a twelve-month workmanship guarantee when we leave.';
+            'Plumbing, water heaters, and sewer laterals. Across Yorba Linda and Orange County. Gyuseon looks at the job first and puts the price in writing.';
         }
       }
     },
@@ -65,7 +65,7 @@
       id: 'h1',
       apply: function () {
         if (heroH) {
-          heroH.innerHTML = 'Plumbing and sprinklers,<br>quoted <em>before</em> we start.';
+          heroH.innerHTML = 'Yorba Linda plumbing,<br>water heaters, and sewer lines,<br>priced <em>first.</em>';
         }
       }
     },
@@ -73,7 +73,7 @@
       id: 'service',
       apply: function () {
         if (serviceFirst) {
-          serviceFirst.textContent = 'Plumbing repair (written programme)';
+          serviceFirst.textContent = 'Water heater replacement (written price)';
         }
       }
     }
@@ -87,7 +87,7 @@
     if (mode === 'updated') {
       barSub.textContent = 'Draft for Gyuseon at Sungshim Plumbing. Claim it, preview the rest of the journey, or request a change.';
     } else {
-      barSub.textContent = 'Draft for Gyuseon Oh at Sungshim Plumbing. Claim it, preview the rest of the journey, or request a change.';
+      barSub.textContent = 'Draft for Gyuseon at Sungshim Plumbing. Claim it, preview the rest of the journey, or request a change.';
     }
   }
 
