@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Plumbing, water heaters, and sewer laterals. Across Yorba Linda and Orange County. Gyuseon looks at the job first and puts the price in writing.';
+            'Plumbing, water heaters, and sewer laterals in Yorba Linda. Gyuseon looks at the job first and puts the price in writing.';
         }
       }
     },
